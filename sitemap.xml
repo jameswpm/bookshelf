@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/%20https:/jameswpm.github.io/bookshelf/post/millenium-1/</loc>
+    <loc>https://jameswpm.github.io/bookshelf/post/millenium-1/</loc>
     <lastmod>2017-02-23T16:55:13-03:00</lastmod>
   </url>
   
   <url>
-    <loc>/%20https:/jameswpm.github.io/bookshelf/</loc>
+    <loc>https://jameswpm.github.io/bookshelf/</loc>
     <lastmod>2017-02-23T16:55:13-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/%20https:/jameswpm.github.io/bookshelf/post/</loc>
+    <loc>https://jameswpm.github.io/bookshelf/post/</loc>
     <lastmod>2017-02-23T16:55:13-03:00</lastmod>
     <priority>0</priority>
   </url>
